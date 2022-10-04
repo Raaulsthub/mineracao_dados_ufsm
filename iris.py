@@ -56,3 +56,4 @@ clf.fit(X_train, y_train)
 y_pred_5 = clf.predict(X_test)
 
 print("ACCURACY OF 3 LAYERS (100 NEURONS) PERCEPTRON: ", metrics.accuracy_score(y_test, y_pred_5))
+
