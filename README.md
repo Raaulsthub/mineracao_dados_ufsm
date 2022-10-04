@@ -1,0 +1,1 @@
+# MINERAÇAO DE DADOS
